@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/MainMap.umap",
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Rack01.uasset",
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/zp/UnrealProjects/WarehouseWreckage/Content/BP_Barrel.uasset"
 			]
 		}
 	]
